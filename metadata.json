@@ -1,0 +1,6 @@
+{
+  "name": "DwarSewa",
+  "description": "Doorstep home services in Ranchi: cleaning, repairs, salon, plumbing, and electrical services with bilingual EN/HI support, test logins, provider management, and offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

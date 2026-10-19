@@ -1,0 +1,12 @@
+- [x] Replace displayed logo and browser/app icons with the uploaded logo.
+- [x] Add preview-only dummy OTP login using an isolated test account.
+- [x] Test sign-in through role selection, saved profile, service list, refresh persistence and logo rendering.
+- [x] Add a separate provider test identity so provider login can be tested without touching the customer account.
+- [x] Create the admin console account and approve the provider test identity; both verified in the preview.
+- [ ] Add the SMS provider so real phone numbers receive a real OTP.
+- [x] Add complete customer/provider registration with one account per mobile and multi-service provider selection.
+- [x] Add admin-published sliding offers and customer offer details.
+- [x] Verify registration, permissions and offers end to end.
+- [ ] Build the sample-inspired customer profile and all related account pages using existing customer data.
+- [ ] Verify customer account navigation, saved information and mobile layout.
+- [ ] Restyle the customer home page to match the new shopping-style dashboard reference, preserving services and sliding offers.
